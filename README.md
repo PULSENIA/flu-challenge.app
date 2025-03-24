@@ -17,7 +17,7 @@ Tu dois développer **un seul écran Flutter** affichant les informations suivan
 ✅ **Bouton "Ajouter au panier"** 🛒  
 
 👉 **Lien du design Figma** : [🔗 Accéder au prototype](https://www.figma.com/ton-lien)  
-
+sss
 ⚠️ **Ton code doit respecter ces principes :**  
 - **Fidélité au design Figma** 🎨  
 - **Utilisation des bons widgets Flutter** (Row, Column, Stack…)  
